@@ -23,7 +23,7 @@ related question and helps you prepare for your placements 👨🏻‍🎓
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
-<p align="center"> <img src="450DSA.png" alt="450DSA" /></p>
+<p align="center"> <img src="./image/450DSA.png" alt="450DSA" /></p>
 
 
 
@@ -34,11 +34,53 @@ related question and helps you prepare for your placements 👨🏻‍🎓
 
 </div>
 
-# Discord
+## ❤️ Project Admin
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/aryasoni98">
+				<img src="https://avatars.githubusercontent.com/u/18515597?v=4" width="100px" alt="" />
+				<br /> <sub><b>Arya Soni</b></sub>
+			</a>
+			<br /> <a href="https://github.com/aryasoni98">
+		👑 Admin
+	    </a>
+		</td>
+	</tr>
+</table>
+
+## Maintainers 😇
+
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/vanshita2123">
+				<img src="https://avatars.githubusercontent.com/u/58918097?v=4" width="100px" alt="" />
+				<br /> <sub><b>Vanshita Gupta</b></sub>
+			</a>
+		</td>
+    <td align="center">
+			<a href="https://github.com/shubhigupta991">
+				<img src="https://avatars.githubusercontent.com/u/58917829?v=4" width="100px" alt="" />
+				<br /> <sub><b>Shubhangi Gupta</b></sub>
+			</a>
+		</td>
+    <td align="center">
+			<a href="https://github.com/twadhwa">
+				<img src="https://avatars.githubusercontent.com/u/66528495?v=4" width="100px" alt="" />
+				<br /> <sub><b>Tushar Wadhwa</b></sub>
+			</a>
+		</td>
+	</tr>
+</table>
+
+
+## Discord
 
 [![Discord](https://img.shields.io/discord/740478099430572042?color=7389DA&label=Discord&logo=Discord&logoColor=FFF&style=for-the-badge)](https://discord.gg/H4V3jpbG8a)
 
-# License
+## License
 
 This project follows the [MIT License](https://github.com/CodeTrophs/450DSA/blob/main/LICENSE).
 
