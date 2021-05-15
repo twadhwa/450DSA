@@ -50,31 +50,6 @@ related question and helps you prepare for your placements 👨🏻‍🎓
 	</tr>
 </table>
 
-## Maintainers 😇
-
-<table>
-	<tr>
-    <td align="center">
-      <a href="https://github.com/aryasoni98">
-        <img src="https://avatars.githubusercontent.com/u/18515597?v=4" width="100px" alt="" />
-        <br /> <sub><b>Arya Soni</b></sub>
-      </a>
-    </td>
-		<td align="center">
-			<a href="https://github.com/vanshita2123">
-				<img src="https://avatars.githubusercontent.com/u/58918097?v=4" width="100px" alt="" />
-				<br /> <sub><b>Vanshita Gupta</b></sub>
-			</a>
-		</td>
-    <td align="center">
-			<a href="https://github.com/twadhwa">
-				<img src="https://avatars.githubusercontent.com/u/66528495?v=4" width="100px" alt="" />
-				<br /> <sub><b>Tushar Wadhwa</b></sub>
-			</a>
-		</td>
-	</tr>
-</table>
-
 
 ## Discord
 
