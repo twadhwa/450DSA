@@ -23,7 +23,7 @@ related question and helps you prepare for your placements 👨🏻‍🎓
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
-<p align="center"> <img src="./image/450DSA.png" alt="450DSA" /></p>
+<p align="center"> <img src="450DSA.png" alt="450DSA" /></p>
 
 
 
