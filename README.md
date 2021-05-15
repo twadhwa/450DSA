@@ -39,11 +39,11 @@ related question and helps you prepare for your placements 👨🏻‍🎓
 <table>
 	<tr>
 		<td align="center">
-			<a href="https://github.com/aryasoni98">
-				<img src="https://avatars.githubusercontent.com/u/18515597?v=4" width="100px" alt="" />
-				<br /> <sub><b>Arya Soni</b></sub>
+			<a href="https://github.com/shubhigupta991">
+				<img src="https://avatars.githubusercontent.com/u/58917829?v=4" width="100px" alt="" />
+				<br /> <sub><b>Shubhangi Gupta</b></sub>
 			</a>
-			<br /> <a href="https://github.com/aryasoni98">
+			<br /> <a href="https://github.com/shubhigupta991">
 		👑 Admin
 	    </a>
 		</td>
@@ -54,16 +54,16 @@ related question and helps you prepare for your placements 👨🏻‍🎓
 
 <table>
 	<tr>
+    <td align="center">
+      <a href="https://github.com/aryasoni98">
+        <img src="https://avatars.githubusercontent.com/u/18515597?v=4" width="100px" alt="" />
+        <br /> <sub><b>Arya Soni</b></sub>
+      </a>
+    </td>
 		<td align="center">
 			<a href="https://github.com/vanshita2123">
 				<img src="https://avatars.githubusercontent.com/u/58918097?v=4" width="100px" alt="" />
 				<br /> <sub><b>Vanshita Gupta</b></sub>
-			</a>
-		</td>
-    <td align="center">
-			<a href="https://github.com/shubhigupta991">
-				<img src="https://avatars.githubusercontent.com/u/58917829?v=4" width="100px" alt="" />
-				<br /> <sub><b>Shubhangi Gupta</b></sub>
 			</a>
 		</td>
     <td align="center">
