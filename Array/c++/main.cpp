@@ -1,5 +1,6 @@
 # include <iostream>
 
+
 using namespace std ;
 class Array {
 private :
@@ -156,7 +157,9 @@ int cycle (){
 };
 int main (){
     Array arr;
-
+    cout<<"hello world";
+    cout  <<"Hello tushar " ;
+    cout<< "hello";
 
 
 
